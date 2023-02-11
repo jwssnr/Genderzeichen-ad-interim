@@ -48,7 +48,7 @@ Ich möchte wirklich alle ermutigen, neue Formen zu finden, zu spielen und ganz 
 
 ## Zwischenlösung
 Für die kommenden 7 Jahre plädiere ich für den Doppelpunkt als beste der schlechten Lösungen, allerdings mit der Bitte, diesen typografisch etwas pflegen zu lassen, bevor die Texte in Produktion gehen. 
-Wenns gut geht, erfinden findige Schriftdesignerà einen Automatismus, welcher den Doppelpunkt als Genderzeichen etwas optimiert. Technisch ist das möglich. In der Typografie nennt sich das eine kontextbedingte Alternative.
+Wenns gut geht, verwenden findige Schriftdesignerà einen Automatismus, welcher den Doppelpunkt als Genderzeichen jeweils etwas optimiert sprich modifiziert. Technisch ist das möglich. In der Typografie nennt sich das eine kontextbedingte Alternative.
 
 ☀︎
 
