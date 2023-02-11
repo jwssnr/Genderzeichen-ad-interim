@@ -14,13 +14,13 @@ Der Doppelpunkt stört in Markdown nicht. Gegenüber dem Asterix verschwindet er
 Als Typografà und Gestalterà war natürlich meine erste Idee, ein Zeichen zu suchen, dass sich genau richtig in den Text einfügt und heute semantisch ein so vernachlässigtes Dasein fristet wie das @ im Prä-Internet-Zeitalter, sodass es eine neue Bedeutung kriegen könnte. Erfolglos. Also müssten Menschen eines erfinden. Die Gilde der Schriftgestalterà soll sich hinsetzen und zusammen eines ausbrüten – international offiziell anerkannt. Für hinten oder vorne an den zu gendernden Begriff – ganz gewagt. 
 
 ## Zugänglichkeit
-Wieso anerkannt? Es gibt blinde Menschen. Ich sag das so, weil mir scheint, genau diese Tatsache wird bei der ganzen Inklusionsarbeit immer wieder vergessen. Blinde oder krass in der Sehleistung beeinträchtige Menschen, lassen sich durch Programme, Screenreader, den Bildschirm vorlesen. In Wirklichkeit ist es mehr als nur Vorlesen, es ist eine ganzheitliche Benutzeràführung. Dass die Entwicklung solcher Programme darauf angewiesen ist, dass in der jeweiligen Betriebssystem-Sprache Standards herrschen, dürfte plausibel sein. Wohl auch vor dem Hintergrund, dass im Vergleich zu neuem Unterhaltungsplunder weniger Ressourcen locker gemacht werden, solche Werkzeuge stets auf neue sprachliche Finessen abzustimmen. Hier 5 Beispieltexte und deren Ausgabe per Screenreader auf einem Mac in Standardeinstellung:
+Wieso anerkannt? Es gibt blinde Menschen. Ich sag das so, weil mir scheint, genau diese Tatsache wird bei der ganzen Inklusionsarbeit immer wieder vergessen. Blinde oder krass in der Sehleistung beeinträchtige Menschen, lassen sich durch Programme, Screenreader, den Bildschirm vorlesen. In Wirklichkeit ist es mehr als nur Vorlesen, es ist eine ganzheitliche Benutzeràführung. Dass die Entwicklung solcher Programme darauf angewiesen ist, dass in der jeweiligen Betriebssystem-Sprache Standards herrschen, dürfte plausibel sein. Wohl auch vor dem Hintergrund, dass im Vergleich zu neuem Unterhaltungsplunder weniger Ressourcen locker gemacht werden, solche Werkzeuge stets auf neue sprachliche Finessen abzustimmen. Hier 5 Beispieltexte und deren akustische Ausgabe per Screenreader auf einem Mac in Standardeinstellung:
 - Leser*innen = Leser Stern Innen
 - Leser/innen = Leser Schrägstrich Innen
 - Leser’innen = Leserinnen
-- LeserInnen = Leser Innen (gut)
-- Leser:innen = Leser Innen (gut)
-- Leser·innen = Leser Innen (gut)
+- LeserInnen = Leser Innen → gut
+- Leser:innen = Leser Innen → gut
+- Leser·innen = Leser Innen → gut
 
 Ähnliche «Sorgen» haben übrigens Live-Übersetzungs-Tools und alle anderen Formen von automatischer Textverarbeitung. Mindestens an diesem Punkt bessert es mit den aus dem Boden schiessenden AI.
 
