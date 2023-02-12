@@ -1,4 +1,4 @@
-# Typografischer Senf zum Gendern (Arbeitstitel)
+# Genderisk
 
 Ich schubladisier mich wohl gleich selbst, wenn ich sage, dass ich das «Gendersternchen» nicht mag. Den Doppelpunkt mag ich ein bisschen mehr aber wirklich nur ein bisschen und ich will versuchen, mein «Kreuz mit dem Sternchen» zu erklären. Meine Motivation zu diesem Aufsatz basiert auf der 30-jährigen Tätigkeit als Typografà, sprich als einà jener Handwerkà deren Aufgabe es ist, Text möglichst lesbar zum Transport vorzubereiten und auf meinen altersbedingten Schlaflücken mit Gedankenkirmes.
 
