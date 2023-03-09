@@ -22,7 +22,7 @@ Wieso anerkannt? Es gibt seebehinderte Menschen. Ich sag das so, weil mir schein
 - Leser:innen = Leser Innen
 - Leser·innen = Leser Innen
 
-Mit anderen Worten: Von den verbreiteten Ideen funktionieren akustisch nur das Binnen-I, der Doppelpunkt und der Mittelpunkt.
+Mit anderen Worten: Von den verbreiteten Ideen funktionieren akustisch die letzten drei.
 
 Ähnliche Schwierigkeiten haben übrigens Live-Übersetzungs-Tools sowie alle anderen Formen von automatischer Textverarbeitung. Mindestens an diesem Punkt bessert es mit den aus dem Boden schiessenden künstlichen Intelligenzen.
 
