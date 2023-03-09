@@ -22,7 +22,7 @@ Wieso anerkannt? Es gibt seebehinderte Menschen. Ich sag das so, weil mir schein
 - Leser:innen = Leser Innen
 - Leser·innen = Leser Innen
 
-Mit anderen Worten: Von den verbreiteten Ideen funktionieren akustisch die letzten drei.
+Mit anderen Worten: Von den verbreiteten Ideen funktionieren akustisch nur die letzten drei.
 
 Ähnliche Schwierigkeiten haben übrigens Live-Übersetzungs-Tools sowie alle anderen Formen von automatischer Textverarbeitung. Mindestens an diesem Punkt bessert es mit den aus dem Boden schiessenden künstlichen Intelligenzen.
 
@@ -30,7 +30,9 @@ Zweckentfremdete Zeichen sind also aufwändig bis schlecht.
 
 Der Zugänglichkeit noch weniger bekömmlich ist die enorme Holprigkeit, die entsteht, wenn in einem Text ein ganzer Stapel an Berufen und Funktionen durchgegendert wird. Wir kennen das alle beim Lesen und beim Schreiben. Mit einem fitten Lesehirn kriegen wir das hin. Schön und flüssig ist es nicht, aber es geht, jedenfalls mit zwei Geschlechtern. Wir wollen aber nicht nur Menschen aller Geschlechter, sondern auch all jene inkludieren, die weniger bis gar keine Übung haben, Deutsch zu lesen oder es unter Hochdruck gerade lernen müssen. Erst recht nicht funktionieren längere Texte in [«Leichter Sprache»](https://de.wikipedia.org/wiki/Leichte_Sprache), wenn sie durchgegendert sind. 
 
-Wer unserer Leserà hat jetzt die üppigste Arschkarte gezogen, müssten wir uns ständig fragen. Manche erhielten sogar mehrere. Wen exkludieren wir bei der Inklusion? Und wer schafft es allenfalls auch, sich notfalls selbst zu inkludieren – wer aber mit Sicherheit nicht?  
+Wer unserer Leserà hat jetzt die üppigste Arschkarte gezogen, müssten wir uns ständig fragen. Manche erhielten sogar mehrere. Wen exkludieren wir bei der Inklusion? Und wer schafft es allenfalls auch, sich notfalls selbst zu inkludieren – wer aber mit Sicherheit nicht?
+
+Ich versuche gerade zum Spass «des Schusters Leisten» zu entgender und merke, dass ich sogar bei der weiblichen Form hadere. Wer sich schon länger mit dem Thema befasst, hat in diversen Artikeln und Videobeiträgen genügend alltagstauglichere Beispiele gesehen als gerade dieses. Tatsache ist, dass sich die Zugänglichkeit durchgegenderter Text verschlechter, wenn die Grammatik anspruchsvoller wird. Natürlich sind für den reinen Transport von Informationen ausgeklügelte sprachliche Wendungen nicht notwendig. Ein Generalverzicht auf blumige Sprache wäre aber sehr schade.
 
 ## Mist!
 Was nun? Der ganze Diskurs und mit ihm seine Ausbruchsversuche und Experimente sind enorm wichtig. Sprache hat die Männlichkeit über Jahrhunderte zementiert und befeuert, und ich gehe mit allen einig, die das verändern wollen.
@@ -51,6 +53,7 @@ Ich möchte wirklich alle ermutigen, neue Formen zu finden, zu spielen und ganz 
 ## Zwischenlösung
 Für die kommenden sieben Jahre plädiere ich für den Doppelpunkt als beste der schlechten Lösungen, allerdings mit der Bitte, diesen typografisch etwas pflegen zu lassen, bevor die Texte in Produktion gehen. 
 Wenns gut geht, verwenden findige Schriftdesignerà einen Automatismus, der den Doppelpunkt als Genderzeichen jeweils etwas optimiert, sprich modifiziert. Technisch ist das möglich. In der Typografie nennt sich das eine kontextbedingte Alternative.
+ 
 
 ☀︎
 
